@@ -1,0 +1,6 @@
+ git add basic.html - this cmd is used for add file into github
+ git add () in the brackts add file name full with their py / html / css etc
+ git commit -m "My life First Program" ## c
+
+ git remote remove origin 
+  git remote add origin https 
