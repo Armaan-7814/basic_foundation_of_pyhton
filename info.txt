@@ -88,3 +88,4 @@ Step's
 3. git rm --cached 3rd.py  # they are used for untracked file from git GitHub [removed]
  git rm -r --cached .  # they are used for remove all the file who push on the github 
 
+git branch # they are used for check how many branch in our github page 
