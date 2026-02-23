@@ -74,5 +74,17 @@ REMEMBER SIMPLE FLOW:
 git init git add . git commit -m “message” git remote add origin URL git
 push -u origin main
 
-
+c;
 git restore (file name with [their tag])
+
+git restore --staged (file name ) / if use . all file can be untracked
+git add .  # they are used for all file uploads
+git restore .  #they are used for untracked all the file in github
+
+
+Step's
+1. add 
+2. commit -m "(title name )"
+3. git rm --cached 3rd.py  # they are used for untracked file from git GitHub [removed]
+ git rm -r --cached .  # they are used for remove all the file who push on the github 
+
