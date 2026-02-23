@@ -4,3 +4,75 @@
 
  git remote remove origin 
   git remote add origin https 
+
+  git add .     # for active folder 
+  git commit -m "My life programs"  # they are used for  push to github file
+
+  git push origin master # this cmd used for push the file to github
+  
+
+
+
+
+
+
+
+
+
+
+  . cd C: # cd = change directory, opens your project folder
+
+. git init # git init = creates new git repository (.git folder)
+
+. git status # git status = shows file status (new, modified, staged)
+
+. git config –global user.name “Armaan Kaushal” # sets your Git username
+(only once required)
+
+. git config –global user.email “Armaankausha7814@gmail.com” # sets your
+Git email (only once required)
+
+. git config –list # verifies username and email
+
+. git add basic.html # adds single file to staging area
+
+. git add . # adds all files from current folder
+
+. git commit -m “My life First Program” # saves files snapshot with
+message
+
+. git branch # shows current branch name
+
+. git branch -M main # renames branch to main
+
+. git remote add origin https://github.com/ArmaanKaushal/practice.git #
+connects local project to GitHub
+
+. git remote -v # verifies GitHub connection
+
+. git push -u origin main # uploads files to GitHub (first time)
+
+. git push # uploads future changes
+
+. git remote remove origin # removes wrong GitHub connection
+
+. git log # shows commit history
+
+. git clone https://github.com/username/repository.git # downloads
+GitHub repository to local system
+
+FUTURE WORKFLOW:
+
+. git add . # adds new or modified files
+
+. git commit -m “updated project” # saves changes
+
+. git push # uploads changes to GitHub
+
+REMEMBER SIMPLE FLOW:
+
+git init git add . git commit -m “message” git remote add origin URL git
+push -u origin main
+
+
+git restore (file name with [their tag])
