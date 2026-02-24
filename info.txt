@@ -100,3 +100,9 @@ git merge Chandigarh # this method is used for merger all the files in secound b
 
 
  git log --oneline # this is used for chech current modification if admin is merge and push on github 
+
+
+git log --oneline (02f60a5) in the brackets enter value of file  but they are used without brackets git log --oneline 02f60a5 
+
+to remove branch  this code is used ( git push origin --delete - name of branch #Chandigarh  )
+ and to restore deleted branch git push origin Chandigarh (branch_name )
