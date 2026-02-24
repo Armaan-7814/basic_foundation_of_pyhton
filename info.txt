@@ -11,6 +11,8 @@
   git push origin master # this cmd used for push the file to github
   
 
+  git push origin (name of branch like chd / master)
+
 
 
 
