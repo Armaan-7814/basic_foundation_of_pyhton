@@ -1,1 +1,1 @@
-print("signup page loaded successfully!")
+print("signup page loaded !")
