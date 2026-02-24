@@ -11,8 +11,6 @@
   git push origin master # this cmd used for push the file to github
   
 
-  git push origin (name of branch like chd / master)
-
 
 
 
@@ -97,3 +95,8 @@ git branch (name of branch who made in github like master)
 git branch  # status checkout   /git switch master  # aslo this method
 git merge Chandigarh # this method is used for merger all the files in secound branch
 - unmerge 
+
+ git reset --hard head~1 # to use for reset file if merged and remove pushed file on github
+
+
+ git log --oneline # this is used for chech current modification if admin is merge and push on github 
