@@ -1,1 +1,1 @@
-print("signup page loaded from chd !")
+print("signup page loaded from chd ")
